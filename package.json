@@ -1,0 +1,23 @@
+{
+  "name": "react-ujs",
+  "version": "1.0.0",
+  "description": "Unobtrusive scripting adapter for React",
+  "main": "react-ujs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PureSin/react-ujs"
+  },
+  "keywords": [
+    "react",
+    "ujs"
+  ],
+  "author": "kelvin ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PureSin/react-ujs/issues"
+  },
+  "homepage": "https://github.com/PureSin/react-ujs"
+}
